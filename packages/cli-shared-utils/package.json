@@ -1,5 +1,5 @@
 {
-  "name": "@mo-demo/cli-shared-utils",
+  "name": "@mo-demo\/cli-shared-utils",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "傅成涵 <fuchenghan@jianke.cc>",
@@ -22,5 +22,6 @@
   "dependencies": {
     "chalk": "^5.0.1",
     "semver": "^7.3.6"
-  }
+  },
+  "gitHead": "180e22af4bcf06a9f4bc03f340c403378fb03d8b"
 }
