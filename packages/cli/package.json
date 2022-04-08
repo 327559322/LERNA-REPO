@@ -1,6 +1,6 @@
 {
   "name": "@mo-demo/cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "傅成涵 <fuchenghan@jianke.cc>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mo-demo/cli-shared-utils": "^0.0.1",
+    "@mo-demo/cli-shared-utils": "^0.0.2",
     "chalk": "^5.0.1"
   },
   "gitHead": "180e22af4bcf06a9f4bc03f340c403378fb03d8b"
