@@ -1,1 +1,1 @@
-console.log('0.0.5')
+console.log('0.0.6')

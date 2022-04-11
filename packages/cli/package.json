@@ -12,7 +12,7 @@
   "dependencies": {
     "chalk": "^5.0.1",
     "cli-shared-utils": "^0.0.5",
-    "module-1": "^0.0.2"
+    "module-1": "^0.0.5"
   },
   "gitHead": "9ca2de8d9ccc3c772fa36a08531c7fac2f3391e4"
 }
