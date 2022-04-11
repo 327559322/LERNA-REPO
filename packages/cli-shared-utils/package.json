@@ -1,27 +1,17 @@
 {
   "name": "cli-shared-utils",
   "version": "0.0.3",
-  "description": "> TODO: description",
-  "author": "傅成涵 <fuchenghan@jianke.cc>",
-  "homepage": "",
-  "license": "ISC",
+  "description": "",
   "main": "lib/cli-shared-utils.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
-  "publishConfig": {
-    "registry": "http://172.16.17.8:8088/repository/npm-group/"
-  },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.1",
     "semver": "^7.3.6"
   },
-  "gitHead": "4ef3800151bfa11b41d14ac637cee34d35f2d816"
+  "gitHead": "718d02f2a540836117bfd9a6a171a38866d20ed2"
 }
