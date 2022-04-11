@@ -1,6 +1,6 @@
 {
   "name": "cli",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "",
   "main": "lib/cli.js",
   "scripts": {
@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.1",
-    "cli-shared-utils": "^0.0.6",
-    "module-1": "0.0.6"
+    "cli-shared-utils": "^0.0.7",
+    "module-1": "^0.0.7"
   },
   "gitHead": "9ca2de8d9ccc3c772fa36a08531c7fac2f3391e4"
 }
